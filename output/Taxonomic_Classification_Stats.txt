@@ -1,0 +1,20 @@
+# A tibble: 7 x 3
+  Rank    Reads_classified Frac_classified
+  <fct>              <dbl>           <dbl>
+1 Kingdom          7737804         0.984  
+2 Phylum           7532537         0.958  
+3 Class            7322978         0.931  
+4 Order            7189576         0.914  
+5 Family           5905386         0.751  
+6 Genus            1955773         0.249  
+7 Species            60488         0.00769
+# A tibble: 7 x 3
+  Rank    OTUs_classified Frac_classified
+  <fct>             <int>           <dbl>
+1 Kingdom           12506          0.980 
+2 Phylum            12059          0.945 
+3 Class             11668          0.914 
+4 Order             10194          0.799 
+5 Family             8539          0.669 
+6 Genus              4216          0.330 
+7 Species             158          0.0124
