@@ -1,0 +1,38 @@
+ I’ve had a bit of time to think how to structure a shared coral microbiome paper and these are the things that I think would look good or could be useful. Feel free to add anything you think might work – you have more experience with microbes than I do, so I’m 100% happy to explore anything you think is interesting, much of this comes from the Hernandez-Agreda et al 2018 paper I sent a bit back, attached again:
+
+ 
+
+1, NMDS – both species plotted together, we already have this, but can you take the ellipses off, the pattern is pretty clear so no real need for them.
+
+
+2, Heat map showing shared taxa between the two species – just two columns (one for each species all locations combined) – actually now I think of it in addition to that, is it possible to do a heat map showing what is shared at an island level where we have samples for both? Unfortunately, some sample sites don’t have both species – maybe only do this for sampling locations where we have both species? 
+
+
+3, Venn Diagram showing shared taxa for both species (two circles) and Venn Diagram showing shared taxa on each island where we have samples for both species
+
+
+4, Diversity box plots – one that has only two boxes (each species combined) – going by the NMDS and the spread in lutea points, I suspect lutea will be more diverse. 
+
+
+5, Diversity box plots – If possible one that has diversity for each sample site. Where we have both species from the same location can you do them side by side? Or can we do it as one figure with one species on the top row and the other on the bottom row – happy to go with whatever is easier or looks best in your opinion.
+
+
+6, Something like figure 3 in the attached Hernandez paper would be good – I like having all the samples shown on one plot, we obviously only have two species and one location Singapore, but we do have each sample site within Singapore. I think we should be able to do something very similar.
+
+
+7, Rarefaction curves for each species
+
+
+8, The Hernadez paper supplemental (S2 & S3) has some plots of taxonomic distinctness can you do the same thing for what we have? I’m not certain this adds much value to be honest, but might be interesting to look at – worst case we stick it in the SI
+
+ 
+
+I know that is quite a bit to go at. I’m 100% OK for you set one of your students on it and include them as a co-author no problem.
+
+ 
+
+I think point number six is the one that will be the most challenging, so if you have any questions or think a different approach is more suitable  I am completely open to them, is this the one you have been thinking about already? They defined bacteria as present in the core when it was seen in 80% or more of the individual for a specific species - I'm happy to go with that, if you have any strong feelings either way happy to go with them also.
+
+ 
+
+Hope that makes some sort of sense?
